@@ -1,5 +1,8 @@
 # Distribución-de-Heteromys-Australis
-Este repositorio contiene un ejercicio práctico de modelado de distribución espacial de especies (Species Distribution Modeling, SDM) basado en datos de ocurrencia de Heteromys australis. A partir de esta especie, exploramos cómo las condiciones ambientales, la geografía y la ecología influyen en la distribución y abundancia de las poblaciones.
+Las poblaciones no existen aisladas: están influenciadas por el ambiente, su distribución geográfica y las interacciones con otras especies. Entender dónde puede establecerse una especie, cuán abundante es bajo ciertas condiciones, y qué factores limitan su presencia, es esencial para la conservación y el estudio de la biodiversidad.
+
+En este ejercicio, exploramos cómo el ambiente determina el nicho fundamental de Heteromys australis, y cómo los modelos de distribución espacial (SDM) pueden ayudarnos a predecir su distribución potencial a partir de datos de ocurrencia y variables climáticas.
+
 El ejercicio sigue los pasos propuestos en el blog Spatial Data Science de Robert Hijmans, utilizando herramientas en R para:
 * Visualizar datos de ocurrencia
 * Integrar variables ambientales
